@@ -43,4 +43,5 @@ This project mirrors real-world scenarios where businesses need SQL powered insi
 Would love to hear your feedback or how you’d have approached it differently.
 
 
-hashtag#SQL hashtag#PostgreSQL hashtag#DataAnalytics hashtag#BusinessIntelligence hashtag#CaseStudy hashtag#Northwind hashtag#DataDriven hashtag#NextLeap hashtag#SQLChallenge hashtag#WindowFunctions hashtag#CTE hashtag#DataInsights hashtag#NextLeapDAFellowship
+hashtag: 
+#SQL hashtag#PostgreSQL hashtag#DataAnalytics hashtag#BusinessIntelligence hashtag#CaseStudy hashtag#Northwind hashtag#DataDriven hashtag#NextLeap hashtag#SQLChallenge hashtag#WindowFunctions hashtag#CTE hashtag#DataInsights hashtag#NextLeapDAFellowship
